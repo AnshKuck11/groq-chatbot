@@ -1,0 +1,5 @@
+groq
+gradio
+python-dotenv
+ddgs
+pypdf
